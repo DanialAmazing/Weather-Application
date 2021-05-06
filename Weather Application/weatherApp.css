@@ -1,0 +1,7 @@
+#meta {
+  display: flex;
+}
+
+#header-data {
+	align-self: flex-end;
+}
